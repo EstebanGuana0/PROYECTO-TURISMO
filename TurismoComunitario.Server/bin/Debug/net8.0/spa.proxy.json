@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:64076",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\..\\turismocomunitario.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

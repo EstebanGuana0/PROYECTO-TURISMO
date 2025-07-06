@@ -1,0 +1,4 @@
+C:\Users\Gigabyte\Desktop\Trabajos en C sharp\TurismoComunitario\turismocomunitario.client\obj\Debug\turismocomunitario.client.esproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Trabajos en C sharp\TurismoComunitario - copia\turismocomunitario.client\obj\Debug\turismocomunitario.client.esproj.CoreCompileInputs.cache
+C:\Users\laboratorio.mc\Downloads\TurismoComunitario - copia\turismocomunitario.client\obj\Debug\turismocomunitario.client.esproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\TurismoComunitario - copia\turismocomunitario.client\obj\Debug\turismocomunitario.client.esproj.CoreCompileInputs.cache

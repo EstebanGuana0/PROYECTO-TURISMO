@@ -1,0 +1,14 @@
+﻿/* Asegura que el root ocupe toda la pantalla sin padding que afecte layout fijo */
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0; /* Quitar padding para que el lateral fijo quede alineado */
+    height: 100vh; /* Que ocupe toda la altura */
+    display: flex;
+}
+
+/* Opcional: estilos para la tabla */
+th, td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}

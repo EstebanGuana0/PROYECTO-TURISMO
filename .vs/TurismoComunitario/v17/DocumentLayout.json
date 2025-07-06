@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.client\\src\\components\\verreservas.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|solutionrelative:turismocomunitario.client\\src\\components\\verreservas.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.client\\src\\components\\reservas.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|solutionrelative:turismocomunitario.client\\src\\components\\reservas.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|solutionrelative:turismocomunitario.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.server\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|solutionrelative:turismocomunitario.server\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.client\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|solutionrelative:turismocomunitario.client\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.client\\src\\components\\lugardetalle.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|solutionrelative:turismocomunitario.client\\src\\components\\lugardetalle.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.client\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|solutionrelative:turismocomunitario.client\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.client\\src\\context\\authcontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|solutionrelative:turismocomunitario.client\\src\\context\\authcontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.server\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|solutionrelative:turismocomunitario.server\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.server\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|solutionrelative:turismocomunitario.server\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|solutionrelative:turismocomunitario.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|solutionrelative:turismocomunitario.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|solutionrelative:turismocomunitario.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.server\\migrations\\20250705235807_creartablareservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|solutionrelative:turismocomunitario.server\\migrations\\20250705235807_creartablareservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.server\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|solutionrelative:turismocomunitario.server\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|solutionrelative:turismocomunitario.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.server\\turismocomunitario.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|solutionrelative:turismocomunitario.server\\turismocomunitario.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|solutionrelative:turismocomunitario.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.server\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02051B5B-277C-47CB-B5E1-5FE43F479D91}|TurismoComunitario.Server\\TurismoComunitario.Server.csproj|solutionrelative:turismocomunitario.server\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|solutionrelative:turismocomunitario.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.client\\src\\components\\catalogo.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|solutionrelative:turismocomunitario.client\\src\\components\\catalogo.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|c:\\users\\pc\\downloads\\turismocomunitario - copia\\turismocomunitario.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F2ED123B-74D5-41D8-9923-39668C752480}|turismocomunitario.client\\turismocomunitario.client.esproj|solutionrelative:turismocomunitario.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.visualstudio.javascript.sdk\\1.0.1738743\\Sdk\\Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "verReservas.jsx",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\components\\verReservas.jsx",
+              "RelativeDocumentMoniker": "turismocomunitario.client\\src\\components\\verReservas.jsx",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\components\\verReservas.jsx",
+              "RelativeToolTip": "turismocomunitario.client\\src\\components\\verReservas.jsx",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-06T01:00:33.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "TurismoComunitario.Server\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\Models\\Usuario.cs",
+              "RelativeToolTip": "TurismoComunitario.Server\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T00:42:39.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TurismoComunitario.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TurismoComunitario.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T00:48:09.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\Program.cs",
+              "RelativeDocumentMoniker": "TurismoComunitario.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\Program.cs",
+              "RelativeToolTip": "TurismoComunitario.Server\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T00:44:13.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservas.jsx",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\components\\Reservas.jsx",
+              "RelativeDocumentMoniker": "turismocomunitario.client\\src\\components\\Reservas.jsx",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\components\\Reservas.jsx",
+              "RelativeToolTip": "turismocomunitario.client\\src\\components\\Reservas.jsx",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAAAAMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-01T16:20:22.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "TurismoComunitario.Server\\Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\Models\\Reserva.cs",
+              "RelativeToolTip": "TurismoComunitario.Server\\Models\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T23:36:36.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TurismoComunitario.Server\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\AppDbContext.cs",
+              "RelativeToolTip": "TurismoComunitario.Server\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T00:43:37.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "turismocomunitario.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\main.jsx",
+              "RelativeToolTip": "turismocomunitario.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-07T01:22:11.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250705235807_CrearTablaReservas.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\Migrations\\20250705235807_CrearTablaReservas.cs",
+              "RelativeDocumentMoniker": "TurismoComunitario.Server\\Migrations\\20250705235807_CrearTablaReservas.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\Migrations\\20250705235807_CrearTablaReservas.cs",
+              "RelativeToolTip": "TurismoComunitario.Server\\Migrations\\20250705235807_CrearTablaReservas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T23:58:07.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "TurismoComunitario.Server\\Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "TurismoComunitario.Server\\Controllers\\ReservasController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T23:39:12.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "turismocomunitario.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\App.jsx",
+              "RelativeToolTip": "turismocomunitario.client\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-07T00:52:29.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\components\\Login.jsx",
+              "RelativeDocumentMoniker": "turismocomunitario.client\\src\\components\\Login.jsx",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\components\\Login.jsx",
+              "RelativeToolTip": "turismocomunitario.client\\src\\components\\Login.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-07T00:48:41.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\index.css",
+              "RelativeDocumentMoniker": "turismocomunitario.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\index.css",
+              "RelativeToolTip": "turismocomunitario.client\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-07T02:25:00.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthContext.jsx",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\context\\AuthContext.jsx",
+              "RelativeDocumentMoniker": "turismocomunitario.client\\src\\context\\AuthContext.jsx",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\context\\AuthContext.jsx",
+              "RelativeToolTip": "turismocomunitario.client\\src\\context\\AuthContext.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-07T01:37:44.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LugarDetalle.jsx",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\components\\LugarDetalle.jsx",
+              "RelativeDocumentMoniker": "turismocomunitario.client\\src\\components\\LugarDetalle.jsx",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\components\\LugarDetalle.jsx",
+              "RelativeToolTip": "turismocomunitario.client\\src\\components\\LugarDetalle.jsx",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-07T02:39:34.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.jsx",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\components\\Home.jsx",
+              "RelativeDocumentMoniker": "turismocomunitario.client\\src\\components\\Home.jsx",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\components\\Home.jsx",
+              "RelativeToolTip": "turismocomunitario.client\\src\\components\\Home.jsx",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-07T00:40:36.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\App.css",
+              "RelativeDocumentMoniker": "turismocomunitario.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\App.css",
+              "RelativeToolTip": "turismocomunitario.client\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-07T01:10:15.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TurismoComunitario.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TurismoComunitario.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T01:00:08.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TurismoComunitario.Server",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\TurismoComunitario.Server.csproj",
+              "RelativeDocumentMoniker": "TurismoComunitario.Server\\TurismoComunitario.Server.csproj",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\TurismoComunitario.Server.csproj",
+              "RelativeToolTip": "TurismoComunitario.Server\\TurismoComunitario.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T23:56:44.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "TurismoComunitario.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\appsettings.json",
+              "RelativeToolTip": "TurismoComunitario.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T00:50:23.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "TurismoComunitario.Server\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\TurismoComunitario.Server\\Models\\Login.cs",
+              "RelativeToolTip": "TurismoComunitario.Server\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T00:42:18.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Catalogo.jsx",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\components\\Catalogo.jsx",
+              "RelativeDocumentMoniker": "turismocomunitario.client\\src\\components\\Catalogo.jsx",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\TurismoComunitario - copia\\turismocomunitario.client\\src\\components\\Catalogo.jsx",
+              "RelativeToolTip": "turismocomunitario.client\\src\\components\\Catalogo.jsx",
+              "ViewState": "AgIAADsAAAAAAAAAAADwv4MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-07T00:40:46.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Sdk.targets",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.visualstudio.javascript.sdk\\1.0.1738743\\Sdk\\Sdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.visualstudio.javascript.sdk\\1.0.1738743\\Sdk\\Sdk.targets",
+              "ToolTip": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.visualstudio.javascript.sdk\\1.0.1738743\\Sdk\\Sdk.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.visualstudio.javascript.sdk\\1.0.1738743\\Sdk\\Sdk.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-07T00:51:49.154Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
